@@ -7,4 +7,4 @@
   -   [Department of Labor](https://www.dol.gov/)
   -   [Federal Deposit Insurance Corporation - DAUX](https://www.fdic.gov/)
   -   [United States Citizenship and Immigration Services - VER FUTURE](https://www.uscis.gov/)
-  -   [U.S. General Services Administration - FAC](https://github.com/GSA-TTS/FAC) [@asteel-gsa](https://github.com/asteel-gsa)
+  -   [U.S. General Services Administration - FAC](https://github.com/GSA-TTS/FAC)
